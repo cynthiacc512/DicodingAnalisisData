@@ -1,6 +1,5 @@
 # Customer Transaction Analysis
-
-by: Cynthia Caroline
+Originally developed as part of Dicoding's Data Analyst with Python Learning Path
 
 ---
 
