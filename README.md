@@ -10,8 +10,8 @@ This project explores transactional data to uncover customer behavior patterns, 
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/cynthiacc512/DicodingAnalisisData.git
-cd DicodingAnalisisData
+git clone https://github.com/cynthiacc512/customer-transaction-analysis.git
+cd customer-transaction-analysis
 ```
 2. Create a Venv
 
