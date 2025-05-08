@@ -1,7 +1,11 @@
-# Dicoding Project Analisis Data
+# Customer Transaction Analysis
+
 by: Cynthia Caroline
 
 ---
+
+## Project Overview
+This project explores transactional data to uncover customer behavior patterns, product performance, and purchase trends. The insights will help the business optimize marketing strategy and product inventory planning.
 
 ## How to Run Code (in Local)
 
